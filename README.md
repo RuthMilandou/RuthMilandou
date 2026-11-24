@@ -1,6 +1,6 @@
 # Bonjour, moi c'est Ruth ! 🚀
 
-Développeuse IA & Automatisation | Community Manager | SEO
+Développeuse Web | Community Manager | SEO
 
 J'accompagne les projets numériques avec une expertise complète :
 - 🛠 **Développement Web :** Création de sites responsives et fonctionnels.
